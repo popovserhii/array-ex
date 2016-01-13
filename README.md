@@ -1,2 +1,2 @@
 # ArrayUtil
-Array class wrapper
+The wrapper for specific PHP function
